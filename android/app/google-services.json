@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299018372440",
+    "project_id": "dental-chat-app",
+    "storage_bucket": "dental-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299018372440:android:8e70bec75e2e2d21dd112d",
+        "android_client_info": {
+          "package_name": "com.kishokumar.dental_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299018372440-nfk9b30ige6vbhb7i20snjui6qjlfar2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN_QxUrnBQw7-UADf54EqXCCzn493NlIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299018372440-nfk9b30ige6vbhb7i20snjui6qjlfar2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
