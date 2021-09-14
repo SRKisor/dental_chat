@@ -30,6 +30,8 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
   final passwordController = TextEditingController();
   final formKey = GlobalKey<FormState>();
 
+
+// validating  user input
   validate() {
     if (formKey.currentState.validate()) {}
   }
